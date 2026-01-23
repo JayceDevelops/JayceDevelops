@@ -1,6 +1,6 @@
 <h1 align="center">Welcome To My Repositiory</h1>
 
-<h3>My goal is to become a software egineer, and more specifically a full stack engineer</h3>
+<h3>My goal is to become a software egineer, and more specifically a full stack software engineer</h3>
 
 <h3>About Me</h3>
 <ul>
