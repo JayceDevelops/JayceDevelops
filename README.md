@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I am an aspiring software engineer dedicated to bu
 - **HTML5 & CSS3** (Responsive Web Design, Semantic Layouts, Styling)
 
 ### Networking Skills
-- **Configuring Cisco routers & switches
-- **IPV4 & IPV6
-- **Installing and configuring DHCP, DNS, and active directory
+- Configuring Cisco routers & switches
+- IPV4 & IPV6
+- Installing and configuring DHCP, DNS, and active directory
 
 ### 🗄️ Database Management
 - **Relational Databases & SQL** (Database design, structured queries, and data integrity)
