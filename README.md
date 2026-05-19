@@ -1,4 +1,4 @@
-"""# 👋 Hi, I'm a passionate Software Development Student!
+# 👋 Hi, I'm a passionate Software Development Student!
 
 Welcome to my GitHub profile! I am an aspiring software engineer dedicated to building clean, efficient, and impactful digital solutions. 
 
