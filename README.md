@@ -11,21 +11,24 @@ Welcome to my GitHub profile! I am an aspiring software engineer dedicated to bu
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages & Frontend
+### 💻 Languages
 - **Python** (Scripting, Automation, Backend Logic)
 - **HTML5 & CSS3** (Responsive Web Design, Semantic Layouts, Styling)
+
+### Networking Skills
+- **Configuring Cisco routers & switches
+- **IPV4 & IPV6
+- **Installing and configuring DHCP, DNS, and active directory
 
 ### 🗄️ Database Management
 - **Relational Databases & SQL** (Database design, structured queries, and data integrity)
 
 ### 🔧 Tools & Workflow
 - Git & GitHub (Version Control)
-- VS Code / PyCharm / Packet Tracer
-
+- VS Code / Visual Studio / MySQL
 ---
 
 ## 📊 Current Focus & Projects
-- 🛠️ Deepening my knowledge in advanced **Python** and object-oriented programming (OOP).
 - 🗃️ Building and optimizing database scripts (schemas, tables, and relationships).
 - 🌐 Developing full-stack web applications combining my frontend and database skills.
 
