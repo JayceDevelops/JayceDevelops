@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I am an aspiring software engineer dedicated to bu
 - **Python** (Scripting, Automation, Backend Logic)
 - **HTML5 & CSS3** (Responsive Web Design, Semantic Layouts, Styling)
 - **Javascript + React Library**
+- Java, C++, C#
 
 ### Networking Skills
 - Configuring Cisco routers & switches
